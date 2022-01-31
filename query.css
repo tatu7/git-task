@@ -1,0 +1,81 @@
+@media (max-width: 767px) {
+  .colum-1 input {
+    padding: 0.1rem;
+    width: 15rem;
+  }
+  .colum-1 i {
+    font-size: 0.8rem;
+    padding: 0.7rem;
+  }
+  .main-nav {
+    margin-top: 2rem;
+    padding: 0.4rem;
+  }
+  .main-nav div ul li select {
+    font-size: 1.1rem;
+  }
+  .main-nav div ul li {
+    font-size: 1.1rem;
+    margin-right: 1.4rem;
+  }
+  .main-nav div ul li {
+    margin-left: 0.8rem;
+  }
+  .main-header {
+    margin: 2.4rem 2rem;
+  }
+  .card3-desc {
+    font-size: 1rem;
+    line-height: 1;
+  }
+  .card3-foot-input img {
+    width: 3rem;
+  }
+  .card3-foot-input input {
+    padding: 0.2rem 0rem;
+    width: 80%;
+    margin-left: 2.2rem;
+  }
+  .card3-foot-input {
+    font-size: 0.1rem;
+  }
+  .item img {
+    width: 1.4rem;
+  }
+  .main-heder-list {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    padding: 1.2rem 0;
+    gap: 1rem;
+  }
+  .left-card1,
+  .card,
+  .main-left2,
+  .card3 {
+    padding: 1rem;
+  }
+  .card2 {
+    font-size: 1.1rem;
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+  .main-heder-list {
+    display: flex;
+    flex-direction: column;
+  }
+  .left2-head div img {
+    width: 100%;
+  }
+}
+@media (max-width: 605px) {
+  .main-nav {
+    display: none;
+  }
+  .colum-1 input {
+    width: 6rem;
+    font-size: 0.8rem;
+  }
+  .colum-3 div {
+    font-size: 1.1rem;
+  }
+}

@@ -146,6 +146,9 @@ nav {
   gap: 2rem;
   margin-top: 1.3rem;
 }
+.left2-head div img {
+  width: 100%;
+}
 .card1 {
   padding: 2rem;
   background-color: #fff;
