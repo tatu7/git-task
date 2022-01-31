@@ -127,3 +127,19 @@ nav {
 .left-card1 i {
   margin-right: 1rem;
 }
+.main-left2 {
+  padding: 2rem;
+  background-color: #fff;
+  margin-top: 1.5rem;
+}
+.left2-nav {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.2rem;
+}
+.left2-head {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 1.3rem;
+}
