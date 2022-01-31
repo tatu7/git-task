@@ -14,3 +14,43 @@ html {
   width: 90%;
   margin: 0 auto;
 }
+i {
+  font-size: 1.4rem;
+  color: #5555;
+}
+i:hover {
+  color: coral;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 2.4rem 1rem;
+}
+.colum-1 input {
+  padding: 0.4rem 2rem;
+  outline: none;
+}
+.colum-1 i {
+  background-color: blue;
+  padding: 0.8rem 1rem;
+  color: aliceblue;
+  border-radius: 50%;
+  font-size: 1rem;
+}
+.colum-2 {
+  display: flex;
+}
+.colum-2 div {
+  margin-right: 1rem;
+}
+
+.colum-3 {
+  display: flex;
+}
+.colum-3 div img {
+  width: 2rem;
+}
+.colum-3 div {
+  margin-left: 1.4rem;
+  font-size: 1.4rem;
+}
