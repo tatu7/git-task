@@ -162,7 +162,7 @@ nav {
   padding: 0.8rem;
   width: 90%;
   background-color: rgba(197, 184, 184, 0.466);
-  border-radius: 1.8rem;
+  border-radius: 1.1rem;
   color: blue;
   border: none;
   outline: none;
@@ -179,4 +179,68 @@ nav {
 }
 .item {
   text-align: center;
+}
+.card2 {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.4rem;
+  font-size: 1.4rem;
+  background-color: #fff;
+  margin: 1.6rem 0;
+}
+.card3 {
+  padding: 2rem;
+  background-color: #fff;
+}
+.card3-nav {
+  display: flex;
+  justify-content: space-between;
+}
+.card3-nav div img {
+  width: 4rem;
+  margin-right: 1rem;
+}
+.abuot {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+.point button {
+  border-radius: 50%;
+  padding: 0.5rem;
+  border: none;
+}
+.card3-desc {
+  font-size: 1.3rem;
+  margin: 1.2rem 0;
+  line-height: 1.5;
+}
+.card3-img img {
+  display: block;
+  margin: 1rem auto;
+  width: 100%;
+}
+.card3-foot {
+  display: flex;
+  justify-content: space-between;
+  margin: 1.2rem 1rem;
+}
+.card3-foot div ul {
+  display: flex;
+}
+.card3-foot div ul li {
+  margin-right: 1rem;
+}
+.card3-foot-input {
+  display: flex;
+  justify-content: space-between;
+}
+.card3-foot-input img {
+  width: 3.4rem;
+}
+.card3-foot-input input {
+  width: 100%;
+  padding: 0.3rem 1rem;
+}
+.main-right {
 }
