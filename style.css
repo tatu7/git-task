@@ -11,7 +11,7 @@ html {
   scroll-behavior: smooth;
 }
 .container {
-  width: 90%;
+  width: 95%;
   margin: 0 auto;
 }
 i {
@@ -53,4 +53,27 @@ nav {
 .colum-3 div {
   margin-left: 1.4rem;
   font-size: 1.4rem;
+}
+/* hero style */
+.hero {
+  background-color: #e1e0df;
+  position: relative;
+  max-height: 90rem;
+  padding-bottom: 1rem;
+}
+.hero_img img {
+  display: block;
+  margin: 0 auto;
+  width: 60%;
+}
+.person {
+  display: block;
+  margin: 0rem auto;
+  margin-top: -10rem;
+  text-align: center;
+}
+.person img {
+  border-radius: 50%;
+  width: 12rem;
+  border: 2px solid #fff;
 }
